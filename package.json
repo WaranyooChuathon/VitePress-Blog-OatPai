@@ -4,7 +4,7 @@
   },
 "scripts": {
   "docs:build": "npx vitepress build docs",
-  "docs:dev": "npx vitepress dev docs",
+  "build": "npx vitepress build docs",
   "docs:preview": "npx vitepress preview docs"
 }
 
